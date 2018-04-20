@@ -1,0 +1,1 @@
+Olá meu nome é Ricardo e estou aprendendo programação!
